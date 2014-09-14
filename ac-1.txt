@@ -6,16 +6,50 @@ e responda às seguintes questões:
 
 1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
 
-	Resposta:
+	Resposta: Segundo os autores do texto, a proporção dos projetos que falharam variam conforme a época, 
+	mas são grandes. O grupo Standish notou que em 1994, aproximadamente 31% dos projetos de software corporativos 
+	foram cancelados antes de serem completados e 53% dos softwares foram desabilitados e o custo subiu 180% da 
+	estimativa original. 
+		Linberg em 1999 descobriu que 20% dos projetos de software falharam e 46% sofreram com aumento de custo e 
+	quebra da agenda ou funcionalidades significativamente reduzidas.
+		Em 2007 o grupo Standish reportou que 46% dos projetos de software foram desabilitados, devido ao custo ou
+	tempo excedente ou pelo fato de não atingir totalmente os requisitos do cliente, e 19% por outros motivos falharam.
+	A validade desses dados é de certa forma duvidosa, segundo o autor, como sendo inconsistentes com o resultado de 
+	custos de outras pesquisas. Ainda sim, existem sérios problemas com a forma com que o grupo Standish conduziu suas
+	pesquisas e que os resultados foram direcionados através de relatórios de falhas porque uma amostra aleatória de
+	altos executivos de TI foram escolhidos para compartilhar histórias de falha quando enviaram depoimentos 
+	confidenciais.
 
 
 
 2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
 
-	Resposta:
+	Resposta: Dentre as diversas razões de falha de projeto, eu escolhi relacionar as duas seguintes:
+"O projeto possui uma equipe inadequada" e "a data de entrega feita com requerimentos inadequados". Acredito que a 
+principal relação existente entre eles se reside no fato de que se a equipe é inadequada, a produtividade do projeto 
+como um todo irá cair, e consequentemente a previsão da data de entrega terá altíssimas chances de estar errada. A 
+escolha de uma data de entrega com requerimentos que necessitariam de uma data maior por si só já é um enorme problema, 
+com uma equipe inadequada, o projeto com certeza possuirá muitos problemas no decorrer do processo de desenvolvimento do 
+software, consequentemente atrasos acontecerão e a data de entrega não conseguirá ser atingida, acarretando outros 
+problemas na teia descrita na figura 1, e dessa forma o projeto terá enormes chances de ser uma falha completa.
+
 
 
 
 3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
 
-	Resposta:
+	Resposta:  Segundo os autores, em primeiro lugar, os projetos não falham por uma razão em particular, e sim por 
+	diversas razões que são interligadas. Se o cliente não investir tempo suficiente com os desenvolvedores para 
+	definir os requerimentos do seu software adequadamente, isso pode levar a expectativas irreais. Então, como os 
+	requerimentos iniciais são fracos, não é surpreendente que durante o projeto ocorram diversas mudanças de 
+	requerimentos, levando a equipe a ter sérios problemas com data de entrega do software, e consequentemente o 
+	projeto será subestimado. Portanto o cliente tem que participar do processo de engenharia de requerimentos para 
+	não haver ambiguidades ou faltar algum detalhe aos desenvolvedores. Outro fator importante é que o gerente de 
+	projeto tem que estar envolvido com a decisão da data de entrega, dessa forma para não haver problemas com datas 
+	não atingidas. Outro problema costumeiro é adicionar membros a equipe depois de o projeto já ter sido iniciado, 
+	o que leva a ter que apresentar todo o conteúdo desenvolvido até o presente momento para os novos integrantes, 
+	e isso acarreta em mais atrasos do projeto. Segundo eles, melhorando estes pontos, os projetos podem ter menos 
+	chances de falhar. É desconfortante perceber que durante todos os anos de análise, os motivos de falha de projeto 
+	ainda são os mesmos, e estão se tornando cada vez piores. Melhorando estes pontos e fazendo reviews de projetos 
+	falhos anteriores, poderemos ter mais chances de sucesso em futuros projetos.
+
